@@ -10,7 +10,6 @@ Jinja2==2.11.2
 keyring==10.6.0
 keyrings.alt==3.0
 MarkupSafe==1.1.1
-mercurial==4.5.3
 pycrypto==2.6.1
 pycurl==7.43.0.1
 pygobject==3.26.1
